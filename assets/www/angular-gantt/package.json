@@ -1,0 +1,65 @@
+{
+  "name": "angular-gantt",
+  "version": "1.2.14",
+  "description": "Gantt chart component for AngularJS",
+  "author": {
+    "name": "Marco Schweighauser"
+  },
+  "contributors": [
+    {
+      "name": "Rémi Alvergnat"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular-gantt/angular-gantt.git"
+  },
+  "homepage": "https://www.angular-gantt.com",
+  "bugs": {
+    "url": "https://github.com/angular-gantt/angular-gantt/issues"
+  },
+  "keywords": [
+    "gantt",
+    "chart",
+    "angularjs"
+  ],
+  "main": "assets/angular-gantt.js",
+  "directories.doc": "docs",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-cleanempty": "^1.0.3",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-connect": "^0.11.2",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-gh-pages": "^1.0.0",
+    "grunt-html2js": "^0.3.5",
+    "grunt-karma": "^0.12.1",
+    "grunt-karma-coveralls": "^2.5.4",
+    "grunt-release-it": "^1.0.0",
+    "grunt-replace": "^0.11.0",
+    "grunt-run": "^0.5.2",
+    "jasmine-core": "^2.4.1",
+    "jshint-stylish": "^2.1.0",
+    "karma": "^0.13.15",
+    "karma-coverage": "^0.5.3",
+    "karma-jasmine": "^0.3.6",
+    "karma-mocha-reporter": "^1.1.3",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.3"
+  },
+  "readme": "# angular-gantt \n[![npm version](http://img.shields.io/npm/v/angular-gantt.svg?style=flat)](https://npmjs.org/package/angular-gantt) \n[![Build status](http://img.shields.io/travis/angular-gantt/angular-gantt.svg?style=flat)](https://travis-ci.org/angular-gantt/angular-gantt)\n[![Coverage Status](https://img.shields.io/coveralls/angular-gantt/angular-gantt.svg?style=flat)](https://coveralls.io/r/angular-gantt/angular-gantt)\n[![Documentation](https://readthedocs.org/projects/angular-gantt/badge/?style=flat)](https://angular-gantt.readthedocs.org)\n[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angular-gantt/angular-gantt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)\n[![HuBoard](https://img.shields.io/badge/Hu-Board-7965cc.svg)](https://huboard.com/angular-gantt/angular-gantt)\n\n## Gantt chart component for AngularJS\n\n[angular-gantt](http://www.angular-gantt.com) provides a gantt chart component to your [AngularJS](https://angularjs.org/) application.\n\n<br/> \n\n![Angular Gantt](docs/img/angular-gantt.png)\n\n## Try now\n\nTry angular-gantt now using the [Demo Application](http://www.angular-gantt.com/demo).\n\n[Unstable Demo Application](http://rawgit.com/angular-gantt/angular-gantt/master/demo/dist/index.html) is also available.\nIt is build against [github master](https://github.com/angular-gantt/angular-gantt) branch, and allows to preview \nbleeding edge features, but may be very unstable.\n\nYou can even try the API using Plunker sandbox, with [XYYkD8tf5b2LQs5kL5nx](http://plnkr.co/XYYkD8tf5b2LQs5kL5nx) \n(latest release) and [cNqoyX](http://plnkr.co/cNqoyX) (master branch).\n\n## Features\n- Two-way data binding between model and view.\n- Advanced calendar support to define holidays and working hours.\n- Each task and row has its own properties and behavior.\n- Rows and tasks can be sorted and filtered.\n- Plugin architecture to add custom features and hooks.\n- API to listen events and call methods from your controller.\n\n## Docs\n\nDocs are built using [MkDocs](http://www.mkdocs.org/) and available at\n[angular-gantt website](http://www.angular-gantt.com) (stable) and [ReadTheDocs](http://angular-gantt.readthedocs.org/en/latest/)\n(master).\n\n## Bower\n\nangular-gantt is available through [bower](http://bower.io/) and [npm](https://www.npmjs.org/package/angular-gantt).\n\n    bower install angular-gantt\n    npm install angular-gantt\n    \nor\n\n    bower install angular-gantt#master\n    npm install https://github.com/angular-gantt/angular-gantt/tarball/master\n    \n## CDNs\n\nYou can find released version on CDNs.\n\n[jsDelivr](http://www.jsdelivr.com/)\n\n    //cdn.jsdelivr.net/angular.gantt/latest/angular-gantt.min.js\n    //cdn.jsdelivr.net/angular.gantt/latest/angular-gantt-plugins.min.css\n\n[CDNjs](http://www.cdnjs.com/) (Replace `<version>` with latest github tag)\n\n    //cdnjs.cloudflare.com/ajax/libs/angular-gantt/<version>/angular-gantt.min.js\n    //cdnjs.cloudflare.com/ajax/libs/angular-gantt/<version>/angular-gantt-plugins.min.css\n\n## Download\n\n[Latest released version](https://github.com/angular-gantt/angular-gantt/releases/latest) is available to \n[download](https://github.com/angular-gantt/angular-gantt/releases/latest) on Github and is the recommended and stable version.\n\n[Master branch version](https://github.com/angular-gantt/angular-gantt/tree/master) contains bleeding edge features, but may be very unstable.\n\n## Dependencies\n- [AngularJS](https://angularjs.org) >= 1.3\n- [angular-moment](https://github.com/urish/angular-moment) ([momentJS](http://momentjs.com/) wrapper)\n\nNote: Some plugins require additional dependencies.\n\n## The MIT License\n\nCopyright (c) 2015 Marco Schweighauser, Rémi Alvergnat\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+  "readmeFilename": "README.md",
+  "_id": "angular-gantt@1.2.14",
+  "dist": {
+    "shasum": "b0dbd774a9426e7d2bef2a2b29e7437021a7387b"
+  },
+  "_from": "angular-gantt@",
+  "_resolved": "https://registry.npmjs.org/angular-gantt/-/angular-gantt-1.2.14.tgz"
+}

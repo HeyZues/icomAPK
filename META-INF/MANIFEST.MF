@@ -1,0 +1,397 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_34 (Sun Microsystems Inc.)
+
+Name: assets/www/css/fonts/roboto/Roboto-Regular-webfont.svg
+SHA1-Digest: dGWOgGLCMG1Xo4hdVYMa0uKEHA0=
+
+Name: res/xml/config.xml
+SHA1-Digest: 0uog14Wytl75fg97zLAKExH1+wU=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-BoldItalic-webfont.t
+ tf
+SHA1-Digest: csaaE+IXvVuk5VtA6JQfRg1xhOI=
+
+Name: assets/www/css/fonts/roboto/Roboto-Black-webfont.woff
+SHA1-Digest: Lf1ciPOkls2QwvQlb2AkHwqLrFg=
+
+Name: assets/www/css/fonts/roboto/Roboto-Black-webfont.eot
+SHA1-Digest: YaPte3DF3Fbl07K5rfZgXRKmDG4=
+
+Name: assets/www/css/fonts/roboto/Roboto-ThinItalic-webfont.ttf
+SHA1-Digest: IkL9MnXnLR8jBNNblUiyFr/Ns/k=
+
+Name: assets/www/css/fonts/roboto/Roboto-BoldItalic-webfont.ttf
+SHA1-Digest: Lvbf8WO6fYxvCwjoLKsqNkekiI4=
+
+Name: assets/www/css/fonts/roboto/Roboto-Regular-webfont.woff
+SHA1-Digest: mdk+HjY2+GyFsMfE2iB3tPHuAQw=
+
+Name: assets/www/css/fonts/roboto/Roboto-ThinItalic-webfont.svg
+SHA1-Digest: FlxOXK+lC4UH8g5vyLfAoL61N88=
+
+Name: assets/www/js/JSSQL.js
+SHA1-Digest: qUup03Y/rW3FogDLPpL2JTgX2o8=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-BoldItalic-webfont.w
+ off
+SHA1-Digest: DOdVGZc/gTRki48Hgk3NciPJrK0=
+
+Name: assets/www/css/style.css
+SHA1-Digest: 8YvEu7sb6dbEkBqcnsPcUDu6rY4=
+
+Name: assets/www/css/fonts/roboto/Roboto-Medium-webfont.eot
+SHA1-Digest: FRf0tuHF0OUZj5N1VyU6rI+rBBY=
+
+Name: assets/www/cordova-plugin/src/windows/SQLite.Proxy/SQLite.Proxy/
+ Lib/Community.CsharpSqlite.SQLiteClient.WinRT.dll
+SHA1-Digest: W4t1o32zYZP2MjHMuco+fkggha8=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Italic-webfont.woff
+SHA1-Digest: UtxpzhJuvi61msGXD5OYxl5dz4s=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Bold-webfont.eot
+SHA1-Digest: cyV7sLXCUUwHckS3pJXOeRvvRYw=
+
+Name: assets/www/css/fonts/roboto/Roboto-Thin-webfont.ttf
+SHA1-Digest: pXMKcJykj619x7eGd+2m4b72fKQ=
+
+Name: assets/www/css/fonts/roboto/Roboto-Italic-webfont.eot
+SHA1-Digest: bpFs7YVLvdwXEbLVS7uuVr7OC28=
+
+Name: assets/www/css/jquerymobile.nativedroid.color.green.css
+SHA1-Digest: 307SyDWZ2IBS9L0u2SKzNpxOePE=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-LightItalic-webfont.
+ ttf
+SHA1-Digest: hir3SJSj/FRvHgw0xY7UDJod7MY=
+
+Name: assets/www/js/jquery.min.js
+SHA1-Digest: sUoijDYy6/49IOXqgwzuoxNSM1M=
+
+Name: assets/www/css/fonts/roboto/Roboto-BlackItalic-webfont.svg
+SHA1-Digest: ws0/4Zce87Fa5k3AwwS+P5PvZrU=
+
+Name: assets/www/cordova.js
+SHA1-Digest: AtpaSyn/8lA4uxmpNjFoGf4DLKY=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Bold-webfont.woff
+SHA1-Digest: f5MB8nbG5Td2wqD/OFyELOMopN0=
+
+Name: assets/www/css/fonts/roboto/Roboto-Light-webfont.ttf
+SHA1-Digest: kKGDlEENqrL33vDB1E1qLG+TCEM=
+
+Name: assets/www/sha1.js
+SHA1-Digest: cNrWnEU/t6dXkVw5JTZgx8ECqys=
+
+Name: assets/www/css/fonts/roboto/Roboto-Black-webfont.svg
+SHA1-Digest: pDgB7StxB4DXUJ9MzbQYZCN0ItI=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-BoldItalic-webfont.e
+ ot
+SHA1-Digest: CFo9U2z4AjNKIGNEqOoD/7HOiJw=
+
+Name: assets/www/css/fonts/roboto/Roboto-BoldItalic-webfont.woff
+SHA1-Digest: O5prNm4i7feeMkMJaUoMnrlKU8M=
+
+Name: assets/www/css/fonts/roboto/Roboto-Medium-webfont.ttf
+SHA1-Digest: TLNA43nZv9/PqGbIVBXpfodwm9U=
+
+Name: assets/www/cordova-plugin/src/windows/SQLite.Proxy/SQLite.Proxy/
+ Properties/AssemblyInfo.cs
+SHA1-Digest: NzUylXZ8nUPedSMSOHDnAkjr74g=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Regular-webfont.ttf
+SHA1-Digest: HvoaHDyqrxIGn6Gd9+xiNGyLqCk=
+
+Name: assets/www/css/fonts/roboto/Roboto-Thin-webfont.svg
+SHA1-Digest: QX4W+oEzH4HMhySTN0h9FIKxm/o=
+
+Name: resources.arsc
+SHA1-Digest: aNQ+5BfFnlKKu1ZP6nTJt8S5vGM=
+
+Name: assets/www/css/fonts/roboto/Roboto-Italic-webfont.svg
+SHA1-Digest: YU5vlGIVhOidsJ0ETwoQ2NUh4ok=
+
+Name: assets/www/css/fonts/roboto/Roboto-BoldItalic-webfont.svg
+SHA1-Digest: MoSdmIZSq0c5Xpa1uRZhTR1dOHE=
+
+Name: assets/www/cordova-plugin/src/windows/SQLite.Proxy/SQLite.Proxy.
+ sln
+SHA1-Digest: TvH/QNKokEzc37TTHXYAvy7/RcY=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Light-webfont.eot
+SHA1-Digest: IGdx+W0nU7UFkyjOFbbgKnqMn60=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 48jVGbFywdGPNGWsiY4EiNs4pxg=
+
+Name: assets/www/style.css
+SHA1-Digest: zZeEvEfwjkcNOOyWvDeTUqt8JZM=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Italic-webfont.eot
+SHA1-Digest: 7+Y7MAp+2UDRviCQKLd/xt4p8qQ=
+
+Name: assets/www/js/jquery.mobile-1.4.5.min.js
+SHA1-Digest: /FXTZ8cnK93oBw+FGvRYS7wQsug=
+
+Name: assets/www/css/fonts/fontawesome-webfont.svg
+SHA1-Digest: KKDNEp625X0h+MURWB8ZCe5rk0o=
+
+Name: assets/www/cordova-plugin/src/windows/WebSqlProxy.js
+SHA1-Digest: PT3C3gHrFj1l3pTdpbkxYBNcZh8=
+
+Name: assets/www/cordova-plugin/src/windows/SQLite.Proxy/SQLite.Proxy/
+ SQLiteProxy.cs
+SHA1-Digest: IhpXeygjNdXPfPfjA3GvBwtUXrU=
+
+Name: assets/www/css/fonts/roboto/Roboto-Regular-webfont.ttf
+SHA1-Digest: 9wfpitL3y+k30UU3QoYw+rqaHTM=
+
+Name: assets/www/cordova-plugin/src/windows/SQLite.Proxy/SQLite.Proxy/
+ Lib/Community.CsharpSqlite.WinRT.dll
+SHA1-Digest: 9Ic3l8U1ADXbgTCS1eWZQ4cgcXI=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Light-webfont.svg
+SHA1-Digest: Wxninv+Kt8Bvrv3PH79tNI0SDmY=
+
+Name: assets/www/css/fonts/roboto/Roboto-Black-webfont.ttf
+SHA1-Digest: lMFMomGx38IJsBilcB0VklV2CX4=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-LightItalic-webfont.
+ svg
+SHA1-Digest: XOuRrHqUaF45n+Dc9xDS4IYkRqQ=
+
+Name: assets/www/css/fonts/roboto/Roboto-LightItalic-webfont.woff
+SHA1-Digest: 9EwljWIvftc5SchTL2LzGJNwjDk=
+
+Name: classes.dex
+SHA1-Digest: HIR/1qU90+1gFbGkiTyKnRiDQvw=
+
+Name: assets/www/cordova-plugin/src/windows/System.Data.Ersatz.WinRT.d
+ ll
+SHA1-Digest: BmvbQWSZwF89k5yh3ZO2ffsyCQY=
+
+Name: assets/www/cordova-plugin/src/windows/Community.CsharpSqlite.SQL
+ iteClient.WinRT.dll
+SHA1-Digest: W4t1o32zYZP2MjHMuco+fkggha8=
+
+Name: assets/www/css/fonts/roboto/Roboto-Light-webfont.eot
+SHA1-Digest: Qv4VaZYZfl6wwCZMXRuztGgfRZU=
+
+Name: res/drawable/icon.png
+SHA1-Digest: V29pfkn63ZKvWbMehv1gXLydfEg=
+
+Name: assets/www/css/font-awesome.min.css
+SHA1-Digest: knhBKC7lc8fRJV/rcLSaE0Zo8c8=
+
+Name: assets/www/css/jquerymobile.nativedroid.dark.css
+SHA1-Digest: oHT+0hWl9axcVGt1LOGEzkOFeVA=
+
+Name: assets/www/cordova-plugin/src/windows/Community.CsharpSqlite.Win
+ RT.dll
+SHA1-Digest: 9Ic3l8U1ADXbgTCS1eWZQ4cgcXI=
+
+Name: assets/www/css/fonts/roboto/Roboto-Thin-webfont.woff
+SHA1-Digest: +S0MI6pbdE2Mzxgy14EoF23xbBM=
+
+Name: assets/www/css/fonts/fontawesome-webfont.eot
+SHA1-Digest: rQwFE6L7tzJqxeEffJS5WqI7AuA=
+
+Name: assets/www/js/sha1.js
+SHA1-Digest: 6PQBbZMGGNnpoQPCyEMk/mCWEfo=
+
+Name: assets/www/css/fonts/roboto/Roboto-Regular-webfont.eot
+SHA1-Digest: d64+mA7AOGPr4lh6jvnd/QaUHbA=
+
+Name: assets/www/js/main.js
+SHA1-Digest: 9y9Qv6XN2OfGYJoRRd/tOYg2Y08=
+
+Name: assets/www/css/fonts/roboto/Roboto-Bold-webfont.eot
+SHA1-Digest: p2zWAvUYi5+9S6dEPcucBk49vxA=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Italic-webfont.svg
+SHA1-Digest: 4kDz+qegYbXHAyth+09hQJjFbvo=
+
+Name: assets/www/css/fonts/roboto/Roboto-Bold-webfont.svg
+SHA1-Digest: +7RtoczaVLS1uEKHWY+pLPSHPO0=
+
+Name: assets/www/cordova-plugin/src/windows/SQLite.Proxy/SQLite.Proxy/
+ Lib/System.Data.Ersatz.WinRT.dll
+SHA1-Digest: BmvbQWSZwF89k5yh3ZO2ffsyCQY=
+
+Name: assets/www/css/fonts/FontAwesome.otf
+SHA1-Digest: RhmDIfkWqyqobArVHgqsqnN4O9c=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: ULk0o0UXuAqPGLrX/YOU0wRlQCo=
+
+Name: assets/www/css/fonts/roboto/Roboto-LightItalic-webfont.ttf
+SHA1-Digest: GcPbSwxLHuAqT1nZsmzo8p15ETI=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: ULk0o0UXuAqPGLrX/YOU0wRlQCo=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Regular-webfont.svg
+SHA1-Digest: YzUIPJHGbag7iImaBVh2w7H1/gE=
+
+Name: assets/www/css/fonts/roboto/Roboto-ThinItalic-webfont.woff
+SHA1-Digest: pCokjwiA80p2uMT6UYsnFsz/NwI=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Bold-webfont.svg
+SHA1-Digest: atgJD+V2qh++e0UdUWl8umC7sP4=
+
+Name: assets/www/css/fonts/fontawesome-webfont.ttf
+SHA1-Digest: xZeSwKBaTaH5ICo5Cifi1QDDZ1I=
+
+Name: assets/www/css/fonts/roboto/Roboto-LightItalic-webfont.svg
+SHA1-Digest: yCr9tATFy6tekKnTxZpYzzxgSrU=
+
+Name: assets/www/css/fonts/roboto/Roboto-BlackItalic-webfont.eot
+SHA1-Digest: oBhAqcVEyxD9BM8mwX+wfg9umkY=
+
+Name: assets/www/css/fonts/roboto/Roboto-Thin-webfont.eot
+SHA1-Digest: B5ClGoSNvnKSyY+dBFkhi/Go/90=
+
+Name: assets/www/cordova-plugin/src/windows/SQLite.Proxy.winmd
+SHA1-Digest: Hj5/cL6zt55jFmgDJkeJyIQlvDA=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Light-webfont.ttf
+SHA1-Digest: JsyodhIFETdrz2FkKM6Ofmx1FWs=
+
+Name: assets/www/css/fonts/fontawesome-webfont.woff
+SHA1-Digest: fy88VcLeGSOHw1G5lRFfa3ngkXM=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Regular-webfont.eot
+SHA1-Digest: BN4dsoZb4vn51Ny3EJYaJL1/S9Y=
+
+Name: assets/www/css/fonts/roboto/Roboto-MediumItalic-webfont.svg
+SHA1-Digest: FgruftBnHAcP0OMCZLcCSHtPBiY=
+
+Name: assets/www/login.js
+SHA1-Digest: o7jM7BWfIN0vD1HpQ0aHy5VkTUc=
+
+Name: assets/www/css/fonts/roboto/Roboto-BlackItalic-webfont.woff
+SHA1-Digest: KXUFFs4sYlf2VIARuucG1t8l/5A=
+
+Name: assets/www/cordova-plugin/README.md
+SHA1-Digest: axUZ1CijzYppOk6meTdrlsbFfNk=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-LightItalic-webfont.
+ woff
+SHA1-Digest: G6Ab0gq5NRX/m9WLjlwbNOqww68=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-LightItalic-webfont.
+ eot
+SHA1-Digest: YlxlNMSH2qeBnJarPJVRASBzvwM=
+
+Name: assets/www/cordova-plugin/src/wp/Community.CsharpSqlite.WinPhone
+ .dll
+SHA1-Digest: M6Xr3VOTe3qxbQJnM5MzDsQCQkU=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Light-webfont.woff
+SHA1-Digest: 5v4J0RAr4rc7vdXDWco2gnPVS8g=
+
+Name: assets/www/css/fonts/roboto/Roboto-Medium-webfont.svg
+SHA1-Digest: kTg8MXPgvCf+e2QbMDZf9Q2N2XQ=
+
+Name: assets/www/css/fonts/roboto/Roboto-LightItalic-webfont.eot
+SHA1-Digest: v5JGYVet1T4lc6vxw6vuelQf3oc=
+
+Name: assets/www/css/fonts/roboto/Roboto-Medium-webfont.woff
+SHA1-Digest: eTb5pmkMBM7CDN07Jwvag6YTWCs=
+
+Name: assets/www/js/database.js
+SHA1-Digest: 9j7iBOxFvTytcOV8z2x3JMSMF5g=
+
+Name: assets/www/css/fonts/roboto/Roboto-Bold-webfont.ttf
+SHA1-Digest: 4fmN8HUymHN6WdEO49J22vFmwFI=
+
+Name: assets/www/index.html
+SHA1-Digest: QK2pnAuj1Xsu1pxcHItfzJ+JoLo=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-BoldItalic-webfont.s
+ vg
+SHA1-Digest: mnJ6pkDxHLcbcGVl48oN5rfO/gM=
+
+Name: assets/www/css/fonts/roboto/Roboto-Bold-webfont.woff
+SHA1-Digest: 2kAy+eCpdTSJpY+BvwKTDtaVLgQ=
+
+Name: assets/www/css/fonts/roboto/Roboto-Italic-webfont.woff
+SHA1-Digest: /J49m1o0lRp60+RhEg+mMWw7dUo=
+
+Name: assets/www/css/fonts/roboto/Apache_License.txt
+SHA1-Digest: EMwui5K51m0SyPgFEF0CJHMIh1k=
+
+Name: assets/www/css/fonts/roboto/Roboto-Light-webfont.woff
+SHA1-Digest: Vca7bqzBcPsoK0h/fk0B52JW/y0=
+
+Name: assets/www/css/fonts/roboto/Roboto-MediumItalic-webfont.ttf
+SHA1-Digest: tv5WWOKc9kbTxws9bxBpDKJs8nI=
+
+Name: assets/www/cordova-plugin/src/wp/WebSql.cs
+SHA1-Digest: b4WwFWYAEWaqRoszwsQUK1lYQOI=
+
+Name: assets/www/css/jquerymobile.nativedroid.css
+SHA1-Digest: 27JaSC8G934MA3Tuwm5Coh6Jkug=
+
+Name: assets/www/cordova-plugin/License.txt
+SHA1-Digest: oYufGmX9axUhBKJQebd19AAEY/0=
+
+Name: assets/www/phonegap.js
+SHA1-Digest: AtpaSyn/8lA4uxmpNjFoGf4DLKY=
+
+Name: assets/www/cordova-plugin/src/wp/SQLite.cs
+SHA1-Digest: PK2Cskl3iV6gG6AHpAL1tx0x+z8=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Italic-webfont.ttf
+SHA1-Digest: 3gX4Xu3O1nayNwBDs9dtyB8tMqM=
+
+Name: assets/www/css/fonts/roboto/Roboto-MediumItalic-webfont.eot
+SHA1-Digest: 36mSmOJmbv0s1zH/TX2qbKKECBk=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Bold-webfont.ttf
+SHA1-Digest: gzhIN9WXjc7lw4Zs0XaH57pZK4s=
+
+Name: assets/www/css/fonts/roboto/RobotoCondensed-Regular-webfont.woff
+SHA1-Digest: aiqslRoR/DUjypjl35iyjeIckNg=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: ULk0o0UXuAqPGLrX/YOU0wRlQCo=
+
+Name: assets/www/css/jquery.mobile-1.4.5.min.css
+SHA1-Digest: iJf2j//HLHL8pRpcWUVMlmKD04E=
+
+Name: assets/www/css/bootstrap.min.css
+SHA1-Digest: Rx3koFcomyg6GQSJOHdbC/jX6kM=
+
+Name: assets/www/css/fonts/roboto/Roboto-BlackItalic-webfont.ttf
+SHA1-Digest: +hU8/tszBKFule0O9g+Z/JHx1qM=
+
+Name: assets/www/css/fonts/roboto/Roboto-Light-webfont.svg
+SHA1-Digest: 4nBE6xOTLvgwdnyTFM1GtvGngpo=
+
+Name: assets/www/css/fonts/roboto/Roboto-BoldItalic-webfont.eot
+SHA1-Digest: Vy/OMq4GN5/Yh4JczeQh5rH/kAo=
+
+Name: assets/www/cordova-plugin/src/windows/SQLite.Proxy/SQLite.Proxy/
+ SQLite.Proxy.csproj
+SHA1-Digest: /L2Wi3oMvUEYde5D127jnqgrvB4=
+
+Name: assets/www/css/fonts/roboto/Roboto-Italic-webfont.ttf
+SHA1-Digest: nKwY8BfzBPtrUmNJZb64eTMhDao=
+
+Name: assets/www/icon.png
+SHA1-Digest: lVF4ozL/j1ZcyQYB4sEoDNHIBOY=
+
+Name: assets/www/css/fonts/roboto/Roboto-MediumItalic-webfont.woff
+SHA1-Digest: VJ7+NIxb2AU+W/nwKVA1IYJrtm4=
+
+Name: assets/www/css/fonts/roboto/Roboto-ThinItalic-webfont.eot
+SHA1-Digest: 3l5oZAQ64RnsCVrAJJ33QGWswlE=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: ULk0o0UXuAqPGLrX/YOU0wRlQCo=
+
+Name: assets/www/cordova-plugin/plugin.xml
+SHA1-Digest: 2g7qc5xTFs3Mu4t82ZlA5OkRqK0=
+
